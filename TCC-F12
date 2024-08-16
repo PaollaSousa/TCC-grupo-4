@@ -1,0 +1,17 @@
+FUNCIONALIDADE 1
+LOGIN DO USUÁRIO - Descrição: Para ter acesso às funcionalidades do aplicativo será necessário o login tanto por parte do usuário paciente,
+quanto por parte do usuário médico. O processo de autenticação é disparado pelo usuário, no qual é comparado o email e senha digitados com os dados cadastrados.
+
+FUNCIONALIDADE 2
+CADASTRO DO USUÁRIO (PACIENTE) - O cadastro de usuários pacientes será através do preenchimento de campos correspondentes aos dados do mesmo,
+sendo eles obrigatórios ou não. Estes campos deverão ser distribuídos em cinco conjuntos de telas: Dados pessoais, Dados de endereço, 
+Dados de contato, Dados médicos e Dados de senha. 
+Deve haver um conjunto de opções para a escolha de gênero.
+Deve haver um conjunto de opções para a escolha de idioma.
+Deve haver um conjunto de opções para a escolha do país.
+Deve haver um conjunto de opções para a escolha do estado e estas opções devem ser listadas de acordo com o país escolhido.
+Deve haver um conjunto de opções para a escolha da cidade e estas opções devem ser listadas de acordo com o estado escolhido.
+Deve haver um campo para informação de telefone para contato.
+Deve haver um campo para informação de telefone para contato de emergência.
+Deve haver um conjunto de opções para a escolha de tipo sanguíneo.
+Deve ser possível descrever textualmente em campos separados informações de alergias, condições médicas, cirurgias anteriores e medicamentos.
